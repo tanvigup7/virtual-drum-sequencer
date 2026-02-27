@@ -12,7 +12,7 @@ An interactive, AI-powered drum sequencer that uses computer vision to map hand 
 
 ## 🎨 Visual Preview
 
-![Vision MIDI Drum Sequencer](7C03720D-B148-46C8-9D2C-04BBB9F10331.png)
+![Vision MIDI Drum Sequencer](screenshot.png)
 
 ## 🛠️ Requirements
 
